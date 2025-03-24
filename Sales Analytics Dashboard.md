@@ -25,6 +25,8 @@ Businesses often struggle to track and compare sales performance, profit trends,
 - **Top Performers**: Bookcases and Storage units generate high revenue.
 - **Yearly Trend**: Sales and profit fluctuate seasonally, requiring strategic planning for peak and low periods.
 
+#### 💼 LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/wajahatsiddique)
+
 
 
 
