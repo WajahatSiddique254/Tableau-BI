@@ -1,7 +1,7 @@
 #  Sales Dashboard
 
 ### Project Preview
-![Sales Dashboard](Dashboard%20Screenshot.png)
+![Image](https://github.com/user-attachments/assets/c2c9a7a5-62ca-4cb9-8b82-ea889f0a17ec)
 
 ##  Project Domain
 **Sales & Business Analytics**
